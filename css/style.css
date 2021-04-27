@@ -99,6 +99,7 @@ body {
 }
 
 .links a {
+  display: flex;
   padding-left: 4%;
   color: #a50000;
   font-weight: 500;
